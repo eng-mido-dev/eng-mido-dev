@@ -1,4 +1,4 @@
-<h2> Hi, I'm MiDo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45"></h2>
+<h2> Hi, I'm MiDo! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="40"></h2>
 
 <hr></hr>
 
