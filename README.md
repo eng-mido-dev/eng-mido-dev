@@ -1,4 +1,4 @@
-<h2> Hi, I'm MiDo! <img src="<div class="tenor-gif-embed" data-postid="15760285" data-share-method="host" data-aspect-ratio="1.10345" data-width="100%"><a href="https://tenor.com/view/mario-hi-hello-wave-greet-gif-15760285">Mario Hi GIF</a>from <a href="https://tenor.com/search/mario-gifs">Mario GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" width="50"></h2>
+<h2> Hi, I'm MiDo! <img src="https://tenor.com/view/mario-hi-hello-wave-greet-gif-15760285" width="50"></h2>
 
 <hr></hr>
 
