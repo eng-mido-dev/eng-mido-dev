@@ -6,7 +6,7 @@
 </em></p>
 
 - [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/12213a54-1361-4c2a-a2fc-282effa632d2" />](#)
-[<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f357fc88-fcbc-4998-bb8f-f32ecaaca37c" />](google.com)
+[<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f357fc88-fcbc-4998-bb8f-f32ecaaca37c" />](google.com)
 
 
 
