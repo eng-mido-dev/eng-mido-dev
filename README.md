@@ -5,9 +5,7 @@
 - <p><em>Web Development at <a href="#">Freelancer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-<span style="margin-right:10px;">
-   <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/12213a54-1361-4c2a-a2fc-282effa632d2" />
-</span>
+ [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/12213a54-1361-4c2a-a2fc-282effa632d2" />](#)
 
 <div align="center">
      
