@@ -1,4 +1,5 @@
 <h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2>
+<img align='right' src="https://i.gifer.com/3otv.gif" width="230">
 
 <hr></hr>
 
