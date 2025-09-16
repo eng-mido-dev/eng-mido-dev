@@ -1,9 +1,5 @@
 <h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2>
 
-<div class="tenor-gif-embed" data-postid="18368023095416747059" data-share-method="host" data-aspect-ratio="0.660661" data-width="100%"><a href="https://tenor.com/view/mario-dance-mario-kart-world-mario-kart-lets-goo-gif-18368023095416747059">Mario Dance Sticker</a>from <a href="https://tenor.com/search/mario-stickers">Mario Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
-
 <hr></hr>
 
 <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
