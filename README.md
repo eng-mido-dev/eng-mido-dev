@@ -2,8 +2,10 @@
 
 <hr></hr>
 
-<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+<div align="center">
 
+<div>
+<img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
 <hr></hr>
 
 ```dart
