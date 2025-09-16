@@ -23,7 +23,7 @@ npx mido-dev
      
 </div>
 <hr></hr>
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="10%" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
 -I turn coffee into code... and sometimes into bugs faster than light ☕💻🐞
 
