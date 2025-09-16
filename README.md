@@ -1,5 +1,5 @@
 <h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2> 
-<img align='right'src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRob2lxajAxbDI1ODE3NmMzM3BvemhiaHVkN2kzam9sOGl0ajg1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="200">
+<img align='right' width="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRob2lxajAxbDI1ODE3NmMzM3BvemhiaHVkN2kzam9sOGl0ajg1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
 
 
 - <p><em>Web Development at <a href="#">Freelancer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
