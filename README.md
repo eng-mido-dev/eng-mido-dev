@@ -2,8 +2,13 @@
 
 <hr></hr>
 
+<p><em>Web Development at <a href="#">Freelancer
+</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
+
+
 <div align="center">
-      <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />
+     
 <div>
 <hr></hr>
 
