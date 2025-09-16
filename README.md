@@ -1,6 +1,8 @@
 <h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2> 
 
 <hr></hr>
+
+<hr></hr>
 <img align='right'src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRob2lxajAxbDI1ODE3NmMzM3BvemhiaHVkN2kzam9sOGl0ajg1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="200">
 <hr></hr>
 
