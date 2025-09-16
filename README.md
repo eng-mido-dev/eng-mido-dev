@@ -5,7 +5,8 @@
 - <p><em>Web Development at <a href="#">Freelancer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-- [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/12213a54-1361-4c2a-a2fc-282effa632d2" />](#)     &nbsp;[<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f357fc88-fcbc-4998-bb8f-f32ecaaca37c" />](#)
+- [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/12213a54-1361-4c2a-a2fc-282effa632d2" />](#)     &nbsp;[<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ca3e7fd5-709d-4f22-8841-564fd806e4ee" />
+](#)
 
 
 
