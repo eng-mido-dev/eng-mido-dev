@@ -2,7 +2,7 @@
 
 <hr></hr>
 
-<p><em>Web Development at <a href="#">Freelancer
+- <p><em>Web Development at <a href="#">Freelancer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
