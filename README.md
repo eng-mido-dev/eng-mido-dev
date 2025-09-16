@@ -1,18 +1,20 @@
-<h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2>
-<img align='right'src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRob2lxajAxbDI1ODE3NmMzM3BvemhiaHVkN2kzam9sOGl0ajg1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="230">
-
+<--Header-->
+<h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2> 
 <hr></hr>
-
+<--section2-->
+<img align='right'src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDRob2lxajAxbDI1ODE3NmMzM3BvemhiaHVkN2kzam9sOGl0ajg1MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" width="230">
 - <p><em>Web Development at <a href="#">Freelancer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
 - [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/12213a54-1361-4c2a-a2fc-282effa632d2" />](#)
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ca3e7fd5-709d-4f22-8841-564fd806e4ee" />](#)
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3005c1be-5a53-418b-8302-431cecf6b2d0" />](#)
+👇 Hit in your console or terminal to connect with me.
+```bash
+npx mido-dev
+```
+**👆 This command line tool can be found at [npx mido-dev](#)**
 
-
-
-
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
 
