@@ -24,6 +24,13 @@ npx mido-dev
 </div>
 <hr></hr>
 
+-I turn coffee into code... and sometimes into bugs faster than light ☕💻🐞
+
+-Full-Stack Developer: I fix one bug, and proudly create three new ones.
+
+-Coding is 10% writing code, 90% asking myself why it’s not working 🤯
+
+-I speak fluent JavaScript... with a strong accent in Stack Overflow.
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="10%" />
 <br>
