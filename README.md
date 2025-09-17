@@ -17,15 +17,6 @@ npx mido-dev
 
 <hr></hr>
 
-## 🧰 Tech Toolbox
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,vscode,github,figma,git,bash" />
-</p>
-
-
-<hr></hr>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -70,6 +61,14 @@ const mido = {
 };
 
 ```
+
+<hr></hr>
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,vscode,github,figma,git,bash" />
+</p>
 
 <hr></hr>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
