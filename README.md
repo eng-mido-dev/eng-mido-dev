@@ -17,6 +17,49 @@ npx mido-dev
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
+```javascript
+const mido = {
+    pronouns: "He" | "Him",
+    code: ["HTML", "CSS", "JavaScript", "TypeScript", "PHP", "Python"],
+    askMeAbout: [
+        "front-end development",
+        "back-end development",
+        "full-stack web projects",
+        "UI/UX design",
+        "modern web trends"
+    ],
+    technologies: {
+        frontEnd: {
+            basics: ["HTML5", "CSS3", "JavaScript", "jQuery"],
+            frameworks: ["React", "Next.js", "Vue.js"],
+            cssFrameworks: ["Tailwind", "Sass", "Bootstrap"],
+            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
+        },
+        backEnd: {
+            js: ["Node.js", "Express", "NestJS"],
+            php: ["Laravel"],
+            python: ["Django", "Flask"],
+        },
+        devOps: ["Docker", "CI/CD", "Nginx", "GitHub Actions"],
+        cloudServices: {
+            aws: ["EC2", "S3", "CloudFront"],
+            gcp: ["Cloud Run", "Firebase Hosting"],
+        },
+        databases: ["PostgreSQL", "MySQL", "MongoDB", "SQLite", "Redis"],
+        misc: ["REST APIs", "GraphQL", "WebSockets", "Socket.IO"],
+    },
+    architecture: {
+        frontEnd: ["SPA", "SSR", "SSG"],
+        backEnd: ["monolithic", "microservices", "serverless"],
+        devOps: ["CI/CD pipelines", "containerization"],
+        databases: ["Relational", "NoSQL", "In-memory"],
+    },
+    currentFocus: "Delivering scalable and modern web solutions",
+    funFact: "Every great project starts with a clean HTML structure."
+};
+
+```
+
 
 
 <div align="center">
@@ -38,7 +81,7 @@ npx mido-dev
 
 <hr></hr>
 
-**Code Style**
+**Code Cycle**
 
 <br>
 
