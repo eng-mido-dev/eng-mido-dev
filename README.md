@@ -38,7 +38,7 @@ npx mido-dev
 
 <hr></hr>
 
-**Code Cycle**
+**Code Style**
 
 <br>
 
