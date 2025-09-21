@@ -8,18 +8,7 @@
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ca3e7fd5-709d-4f22-8841-564fd806e4ee" />](#)
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3005c1be-5a53-418b-8302-431cecf6b2d0" />](#)
 
-<p align="left">
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience)](https://git.io/typing-svg)  
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&lines=🚀+Passionate+about+React%2C+Node.js)](https://git.io/typing-svg)  
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&lines=✨+Creating+scalable+%26+user-focused+solutions)](https://git.io/typing-svg)  
-
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=4000&pause=1500&color=00FFAA&center=true&vCenter=true&width=600&lines=🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)  
-
-</p>
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&multiline=true&width=700&height=150&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React,+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1200&color=00FFAA&vCenter=true&width=700&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React%2C+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
 
