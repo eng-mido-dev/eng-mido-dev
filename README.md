@@ -8,7 +8,7 @@
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ca3e7fd5-709d-4f22-8841-564fd806e4ee" />](#)
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3005c1be-5a53-418b-8302-431cecf6b2d0" />](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&multiline=true&width=600&height=135&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React,+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&multiline=true&width=585&height=135&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React,+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
 
 <br>
 👇 Hit in your console or terminal to connect with me.
