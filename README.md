@@ -10,8 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&multiline=true&width=700&height=150&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React,+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1200&color=00FFAA&vCenter=true&width=700&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React%2C+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
-
 <br>
 👇 Hit in your console or terminal to connect with me.
 
