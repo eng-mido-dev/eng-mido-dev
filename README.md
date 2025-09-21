@@ -1,5 +1,5 @@
 <h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2> 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="185">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="180">
 
 - <p><em>Web Development at <a href="#">Freelancer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
