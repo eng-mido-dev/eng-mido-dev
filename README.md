@@ -81,7 +81,7 @@ const mido = {
 
 - 🐛 “Bugs are just undocumented features.”
 
-- ☕ “Will code for coffee.”
+- ☕ “Coffee: turning bugs into features since forever.”
 
 - 🔧 “Ctrl + S is my best friend.”
 <br>
