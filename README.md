@@ -77,13 +77,13 @@ const mido = {
 <hr></hr>
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
 
-- I turn coffee into code... and sometimes into bugs faster than light ☕💻🐞
+- 💻 “I code… therefore I break stuff.”
 
-- Full-Stack Developer: I fix one bug, and proudly create three new ones.
+- 🐛 “Bugs are just undocumented features.”
 
-- Coding is 10% writing code, 90% asking myself why it’s not working 🤯
+- ☕ “Will code for coffee.”
 
-- I speak fluent JavaScript... with a strong accent in Stack Overflow.
+- 🔧 “Ctrl + S is my best friend.”
 <br>
 
 <div align="center" >
