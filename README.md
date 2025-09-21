@@ -1,5 +1,5 @@
 <h2> Hi, I'm MiDo! <img src="https://i.gifer.com/5UKF.gif" width="50"></h2> 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200">
 
 - <p><em>Web Development at <a href="#">Freelancer </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -8,7 +8,7 @@
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ca3e7fd5-709d-4f22-8841-564fd806e4ee" />](#)
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3005c1be-5a53-418b-8302-431cecf6b2d0" />](#)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&multiline=true&width=700&height=150&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React,+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FFAA&multiline=true&width=650&height=150&lines=💻+Full-Stack+Developer+%7C+4%2B+Years+of+Experience;🚀+Passionate+about+React,+Node.js;✨+Creating+scalable+%26+user-focused+solutions;🤝+Open+to+collaboration+%26+innovation)](https://git.io/typing-svg)
 
 <br>
 👇 Hit in your console or terminal to connect with me.
