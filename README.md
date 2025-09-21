@@ -8,7 +8,7 @@
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/ca3e7fd5-709d-4f22-8841-564fd806e4ee" />](#)
 &nbsp; [<img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/3005c1be-5a53-418b-8302-431cecf6b2d0" />](#)
 
-
+<br>
 - 💻 Full-Stack Developer | 4+ Years of Experience
 
 - 🚀 Passionate about React, Node.js
@@ -17,8 +17,8 @@
 
 - 🤝 Open to collaboration & innovation
 
-
- &nbsp; 👇 Hit in your console or terminal to connect with me.
+<br>
+👇 Hit in your console or terminal to connect with me.
 
 ```bash
 npx mido-dev
